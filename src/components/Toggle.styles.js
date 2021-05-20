@@ -8,6 +8,6 @@ export const ToggleButton = styled.button`
   color: #fff;
   border-radius: 5px;
   background-color: ${({ theme }) => theme.buttonColor};
-  font-size: 1rem;
+  font-size: 2rem;
   font-weight: 800;
 `;
