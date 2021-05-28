@@ -12,7 +12,7 @@ const Toggle = ({ theme, setTheme }) => {
       {theme === "dark" ? (
         <FaSun size={30} />
       ) : (
-        <FaMoon color='orange' size={30} />
+        <FaMoon color='yellow' size={30} />
       )}
     </ToggleButton>
   );
